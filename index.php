@@ -96,7 +96,7 @@ Presenting, Team Unwired.<br /><br /><br />
 
 	<div id="coloumn">
 		<div class='boxtitle'>About teamunwired</div>
-			Hailing from the God's own country, is an ensemble of engineers-to-be
+			Hailing from the God's own country,teamunwired is an ensemble of engineers-to-be
 			at National Institute of Technology Calicut (NIT Calicut), one of the
 			country's best technical institutes. We call ourselves Unwired, a team
 			that relishes on engineering challenges. The primary motivation for
