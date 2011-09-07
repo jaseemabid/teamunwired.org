@@ -264,7 +264,7 @@ display:inline-block;
 /* News */
 
 ul.news li {
-margin:0px;
+margin:0 0 0 -30px;
 }
 
 /* Accordion */
