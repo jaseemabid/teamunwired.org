@@ -270,30 +270,30 @@ margin:0 0 0 -30px;
 /* Accordion */
 
 .teamList  {
-	width: 300px;
-	margin:10px 0px;
+width: 300px;
+margin:10px 0px;
 }
 .teamList div {
-	background:tranparent;
-	height:85px;
+background:tranparent;
+height:85px;
 }
 
 .teamList a {
-	cursor:pointer;
-	color: #E1E1E1;
-	display:block;
-	padding:3px;
-	text-decoration: none;
-	font-size: 16px;
-	opacity: 0.7;
-	border-radius:3px;
+cursor:pointer;
+color: #E1E1E1;
+display:block;
+padding:3px;
+text-decoration: none;
+font-size: 16px;
+opacity: 0.7;
+border-radius:3px;
 }
 
 .teamList a.selected , .teamList a:hover {
-	color: #F31414;
+color: #F31414;
 }
 
 .teamList a:hover {
-	text-decoration:underline;
+text-decoration:underline;
 }
 
