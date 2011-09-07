@@ -31,35 +31,42 @@ $(document).ready(function(){
 			var images = [
 				{
 					'src': 'graphics/logos/ongc.png',
-					'type': '0'
+					'type': '0', 
+					'link': 'http://ongc website'
 				},
 				{
 					'src': 'graphics/logos/gasotech.png',
-					'type': '0'
+					'type': '0', 
+					'link': 'gasotech website'
 				},
 				{
 					'src': 'graphics/logos/eaton.png',
-					'type': '0'
+					'type': '0', 
+					'link': 'company link'
 				},
 				{
 					'src': 'graphics/logos/acc.png',
-					'type': '0'
+					'type': '0', 
+					'link': 'company link'
 				},
 				{
 					'src': 'graphics/logos/sw.png',
 					'type': '1'
 				}
-			], i = 0, hook = $('img#jSlider');
+			], i = 0, sImage = $('img#jSlider'), sLink = $('a.SponsorLink') ;
 
 			setInterval(function(){
 				if (i === images.length) {
 					i = 0;
 				}
-				hook.attr('src',images[i].src );
+
+				sImage.attr('src',images[i].src );
+				sLink.attr('href',images[i].link );
+
 				if (images[i].type === "1" ) { // 1: currrent, 0: old
-					$('#dyn').html("Current Sponsors");
+					$('#SponsorTitle').html("Current Sponsors");
 				} else {
-					$('#dyn').html("Past Sponsors");
+					$('#SponsorTitle').html("Past Sponsors");
 				}
 				i+= 1;
 			}, 3000 );
