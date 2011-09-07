@@ -87,9 +87,11 @@ _gaq.push(['_trackPageview']);
 	</div>
 
 	<div id="coloumn"  style="margin:0px 10px">
-		<div class='boxtitle' style="height:300px" id='dyn' >Current Sponsor</div>
+		<div class='boxtitle' style="height:300px" id='SponsorTitle' >Current Sponsor</div>
 		<br />
-		<img id='jSlider' src="graphics/logos/sw.png" class="sponLogos" />
+		<a class='SponsorLink' href='www.example.com'>
+			<img id='jSlider' src="graphics/logos/sw.png" class="sponLogos" />
+		</a>
 	</div>
 
 	<div id="coloumn">
