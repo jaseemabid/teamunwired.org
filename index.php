@@ -6,7 +6,7 @@
 <meta name="description" content="teamunwired NIT Calicut" />
 <meta name="keywords" content="teamunwired, unwired, nitc, nitcalicut, NIT Calcut, engineering, aero design, BAJA, rocketry " />
 <meta name="author" content="Jaseem Abid" />
-<meta name="revised" content="Jaseem Abid, 25/08/2011" />
+<meta name="revised" content="Jaseem Abid, 6/09/2011" />
 <meta name="robots" content="noarchive">
 <meta charset=UTF-8">
 
@@ -74,7 +74,7 @@ _gaq.push(['_trackPageview']);
 	<div class="mainTitle" style="top: 25px; left: 280px; border-radius:3px;" >
 		<span style="color:#c00002">UN</span>INTRODUCTION
 	</div>
-	<div class="text" style="width:460px;top:95px; left:170px;">
+	<div class="text" style="width:460px;top:95px; left:170px;">(c)
 		You can't do anything about the length of your life, but you can do something about its width and depth.
 	</div>
 	<img src='graphics/homepan.png' class="goldenImage" />
@@ -126,7 +126,9 @@ Presenting, Team Unwired.<br /><br /><br />
 </div>
 
 <div id="bottomlinks">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/in/"></a><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">www.teamunwired.org (c) </span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/in/">Creative Commons Attribution-ShareAlike 2.5 India License</a>.
+	<ul>
+		<li>(c) www.teamunwired.org</li>
+	</ul>
 </div>
 
 <script type="text/javascript">

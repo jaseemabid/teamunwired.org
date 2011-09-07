@@ -51,20 +51,13 @@ border-radius:5px;
 
 position:relative;
 top:-265px;
+left:-6px;
 width:295px;
 height:240px;
 border:0px;
 }
 
 /* First tab bar */
-div#jSlider img, div#jSlider2 img { /* Hide all images in the begining */
-display:none;
-}
-
-div#jSlider img#default, div#jSlider2 img#default { /* Show the default image */
-display:inline-block;
-}
-
 
 ul#globalnav { /* ul of links */
 background:#000000;
@@ -86,7 +79,6 @@ padding:0px 20px;
 ul#globalnav > li > a {
 position:relative;
 left:35px;
-font-family: monospace;
 font-size:18px;
 text-decoration:none;
 }
@@ -97,7 +89,6 @@ text-decoration:none;
 }
 
 ul#globalnav > li > a.live  {
-position:relative;
 color:#f31414;
 text-decoration:none;
 }
@@ -117,22 +108,13 @@ display:inline-block;
 margin:0px 10px;
 }
 
-ul#subnav > li > a ,
-#bottomlinks > ul > li > a {
+ul#subnav > li > a , #bottomlinks > ul > li > a {
 position:relative;
 font-family: monospace;
 font-size:16px;
 color:#cccccc;
 text-decoration:none;
 }
-div#jSlider img, div#jSlider2 img { /* Hide all images in the begining */
-display:none;
-}
-
-div#jSlider img#default, div#jSlider2 img#default { /* Show the default image */
-display:inline-block;
-}
-
 
 ul#subnav > li:hover > a ,
 #bottomlinks > ul > li > a {
@@ -170,13 +152,13 @@ float:left;
 
 .main2 {
 margin-left:0px;
-width:300px;
+width:280px;
 clear:right;
 float:right;
 background:#000000;
 opacity:0.8;
 border-radius:10px;
-padding:10px;
+padding:20px;
 color:#e1e1e1;
 font-size:14px;
 Z-index:10000;
@@ -218,7 +200,6 @@ height:20px;
 #bottomlinks > ul > li{
 display:inline;
 position:relative;
-top:-200px;
 }
 
 .text {
@@ -247,18 +228,6 @@ Z-index:10000;
 
 div.panel {
 display:none;
-}
-
-/* Side bar sponsor slideshow with jSlider */
-
-div#jSlider img { /* Hide all images in the begining */
-display:none;
-position:relative;
-left:-6px;
-}
-
-div#jSlider img#default { /* Show the default image */
-display:inline-block;
 }
 
 /* News */
