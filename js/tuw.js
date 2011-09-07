@@ -30,26 +30,27 @@ $(document).ready(function(){
 				{
 					'src': 'graphics/logos/ongc.png',
 					'type': '0', 
-					'link': 'http://ongc website'
+					'link': 'http://www.ongcindia.com/'
 				},
 				{
 					'src': 'graphics/logos/gasotech.png',
 					'type': '0', 
-					'link': 'gasotech website'
+					'link': 'http://www.gasotech.com/'
 				},
 				{
 					'src': 'graphics/logos/eaton.png',
 					'type': '0', 
-					'link': 'company link'
+					'link': 'http://www.eaton.in/'
 				},
 				{
 					'src': 'graphics/logos/acc.png',
 					'type': '0', 
-					'link': 'company link'
+					'link': 'http://www.acclimited.com/'
 				},
 				{
 					'src': 'graphics/logos/sw.png',
-					'type': '1'
+					'type': '1',
+					'link': 'http://www.solidworks.com/'
 				}
 			], i = 0, sImage = $('img#jSlider'), sLink = $('a.SponsorLink') ;
 

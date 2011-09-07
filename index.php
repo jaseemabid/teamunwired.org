@@ -38,7 +38,8 @@ _gaq.push(['_trackPageview']);
 <div id='logos'>
 	<a href=''><img src="graphics/tuwlogo100px.png" alt="club logo" title="Teamunwired" class="mainlogo" /></a>
 	<a href="http://www.nitc.ac.in"><img src="graphics/NITC-logo.png" alt="NIT Calcut" title="Visit NITC website" class="mainlogo" /></a>
-	<a href="http://sae.org/"><img src="graphics/sae100px.png" alt="SAE logo" title="SAE logo" class="mainlogo" style="float:right; height:90px; position:relative; top:10px;" /></a>
+	<a href="http://sae.org/"><img src="graphics/sae100px.png" alt="SAE logo" title="SAE International" class="mainlogo" style="float:right; height:90px; position:relative; top:10px;" /></a>
+	<a href="http://bajasaeindia.org/"><img src="graphics/saeindia.png" alt="BAJA SAE India" title="BAJA SAE India" class="mainlogo" style="float:right; height:90px; position:relative; top:10px;" /></a>
 </div>
 <!-- \logos -->
 
@@ -108,7 +109,7 @@ Presenting, Team Unwired.<br /><br /><br />
 	<div id="coloumn"  style="margin:0px 10px">
 		<div class='boxtitle' style="height:300px" id='SponsorTitle' >Current Sponsor</div>
 		<br />
-		<a class='SponsorLink' href='www.example.com'>
+		<a class='SponsorLink' href='http://www.solidworks.com/'>
 			<img id='jSlider' src="graphics/logos/sw.png" class="sponLogos" />
 		</a>
 	</div>
