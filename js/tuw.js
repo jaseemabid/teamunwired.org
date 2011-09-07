@@ -23,8 +23,6 @@ $(document).ready(function(){
 		});
 	});
 
-	$('div.maincontent').html('').load('ajax/tab0.html')
-
 	/* Slideshow */
 
 	function slideshow(){
