@@ -75,7 +75,7 @@ _gaq.push(['_trackPageview']);
 	<div class="mainTitle" style="top: 25px; left: 280px; border-radius:3px;" >
 		<span style="color:#c00002">UN</span>INTRODUCTION
 	</div>
-	<div class="text" style="width:460px;top:95px; left:170px;">(c)
+	<div class="text" style="width:460px;top:95px; left:170px;">
 		You can't do anything about the length of your life, but you can do something about its width and depth.
 	</div>
 	<img src='graphics/homepan.png' class="goldenImage" />
