@@ -1,6 +1,6 @@
 ul.polaroids { width: 100%; margin: 0px;}
 ul.polaroids li { display: inline; }
-ul.polaroids a { background: rgba(12, 12, 12, 0.6); display: inline; float: left; margin: 0 0 27px 30px; width: auto; padding: 10px 10px 15px; text-align: center; text-decoration: none; font-size: 18px; -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25); -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25); -webkit-transform: rotate(-2deg); -webkit-transition: -webkit-transform .15s linear; -moz-transform: rotate(-2deg);position:relative;left:-45px;
+ul.polaroids a { background: rgba(40, 40, 40, 0.7); display: inline; float: left; margin: 0 0 27px 30px; width: auto; padding: 10px 10px 15px; text-align: center; text-decoration: none; font-size: 18px; -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25); -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25); -webkit-transform: rotate(-2deg); -webkit-transition: -webkit-transform .15s linear; -moz-transform: rotate(-2deg);position:relative;left:-45px;
 }
 
 
