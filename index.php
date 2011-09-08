@@ -11,7 +11,7 @@
 <meta charset=UTF-8">
 
 <script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
-<script type="text/javascript" src="js/jquery.hoverpulse.js"></script>
+<!-- <script type="text/javascript" src="js/jquery.hoverpulse.js"></script> -->
 <script type="text/javascript" src="js/jquery.accordion.js"></script>
 <script type="text/javascript" src="js/tuw.js"></script>
 <link href="css/tuw.css" rel="stylesheet"  />
