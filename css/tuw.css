@@ -16,7 +16,7 @@ margin:20px auto; /* leave 10 px on top , rest for align */
 background-color:black;
 background-image: url('../graphics/hexagon.png');
 color:gray;
-font-family: 'Droid Sans', arial, serif !important;
+font-family: 'Droid Sans', arial, serif;
 font-size:16px;
 }
 
@@ -30,12 +30,11 @@ color:gray;
 height:115px;
 margin-top:10px;
 padding-bottom:5px;
-border-bottom:0px solid red; /* the red underline */
 }
 
 .mainlogo {
 height:100px;
-border:0px;
+border:0;
 padding-right:20px;
 }
 
@@ -54,16 +53,16 @@ top:-265px;
 left:-6px;
 width:295px;
 height:240px;
-border:0px;
+border:0;
 }
 
 /* First tab bar */
 
-ul#globalnav { /* ul of links */
+#globalnav { /* ul of links */
 background:#000000;
 opacity:0.7;
 color:#e1e1e1;
-padding:7px 0px;
+padding:7px 0;
 border-radius:6px;
 border: 1px solid SteelBlue;
 box-shadow:inset 0 0 10px #555555;
@@ -71,31 +70,31 @@ box-shadow: 1px 0 3px #EFEFEF;
 }
 
 
-ul#globalnav > li {
+#globalnav > li {
 display: inline-block;
-padding:0px 20px;
+padding:0 20px;
 }
 
-ul#globalnav > li > a {
+#globalnav > li > a {
 position:relative;
 left:35px;
 font-size:18px;
 text-decoration:none;
 }
 
-ul#globalnav > li:hover > a {
+#globalnav > li:hover > a {
 color:#a20808;
 text-decoration:none;
 }
 
-ul#globalnav > li > a.live  {
+#globalnav > li > a.live  {
 color:#f31414;
 text-decoration:none;
 }
 
 /* Second tab bar */
 
-ul#subnav { /* ul of sub links */
+#subnav { /* ul of sub links */
 position:relative;
 left:-5px;
 margin-top:-10px;
@@ -103,25 +102,25 @@ width:1100px;
 list-style:none;
 }
 
-ul#subnav > li {
+#subnav > li {
 display:inline-block;
-margin:0px 10px;
+margin:0 10px;
 }
 
-ul#subnav > li > a , #bottomlinks > ul > li > a {
+#subnav > li > a , #bottomlinks > ul > li > a {
 position:relative;
 font-size:16px;
 color:#cccccc;
 text-decoration:none;
 }
 
-ul#subnav > li:hover > a ,
+#subnav > li:hover > a ,
 #bottomlinks > ul > li > a {
 color:red;
 text-decoration:none;
 }
 
-ul#subnav > li > a.live {
+#subnav > li > a.live {
 position:relative;
 left:10px;
 color:red;
@@ -132,13 +131,8 @@ text-decoration:none;
 
 .maincontent {
 position:relative;
-border: 0px white solid;
-padding:5px 0px;
+padding:5px 0;
 height:465px;
-}
-
-.main1 , .main2 {
-border:0px solid white;
 }
 
 .main1 {
@@ -150,19 +144,19 @@ float:left;
 }
 
 .main2 {
-margin-left:0px;
+height:400px;
 width:280px;
 clear:right;
 float:right;
+margin-left:0;
 background:#000000;
 opacity:0.8;
-border-radius:10px;
 padding:20px;
 color:#e1e1e1;
 font-size:14px;
 Z-index:10000;
 border:1 px solid green;
-height:400px;
+border-radius:10px;
 box-shadow:inset 0 0 10px #555555;
 }
 
@@ -180,7 +174,7 @@ border:2px solid gray;
 border-radius:10px;
 padding:20px;
 width:281px;
-margin:0px;
+margin:0;
 height:350px;
 }
 
@@ -216,7 +210,6 @@ Z-index:10000;
 position:absolute;
 background:#000000;
 color:#d9d9d9;
-border-radius:0px;
 font-size: 40px;
 font-weight: bold;
 opacity: 0.92;
@@ -238,7 +231,7 @@ margin:0 0 0 -30px;
 
 .teamList  {
 width: 300px;
-margin:10px 0px;
+margin:10px 0;
 }
 .teamList div {
 background:tranparent;
