@@ -144,7 +144,7 @@ float:left;
 }
 
 .main2 {
-height:400px;
+min-height:385px;
 width:280px;
 clear:right;
 float:right;
@@ -159,6 +159,11 @@ border:1 px solid green;
 border-radius:10px;
 box-shadow:inset 0 0 10px #555555;
 }
+
+.main2 p {
+margin:0 0 5px 0;
+}
+
 
 #coloumns {
 height:410px;
