@@ -117,9 +117,9 @@ Presenting, Team Unwired.<br /><br /><br />
 	<div id="coloumn">
 		<div class='boxtitle'>News and updates</div>
 		<ul class='news'>
-			<li>Virtual Baja presentation on 19th August at Bangalore. Wish us luck!</li>
-			<li>Team Unwired to attend SAE CAD design workshop from July 21-24 at Bangalore.</li>
-			<li>TUW's coders qualify for <a href='http://developer.yahoo.com/blogs/ydn/posts/2011/06/yahoo-open-hack-india-2011/'> OpenHack India</a> by Yahoo! Inc for <a href='https://github.com/nitcalicut/Paathshaala/'>Paathshaala</a>.</li>
+			<li>Teamunwired got selected as the only team from kerala to participate in BAJA SAE India 2012 out of the 240 teams that participated in virtual BAJA from all over the country.</li>
+			<li>The entire designing process has been completed.</li>
+			<li>Work is now focused on fabrication and sponsorship.</li>
 		</ul>
 
 	</div>
