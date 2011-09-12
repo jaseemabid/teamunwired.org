@@ -98,8 +98,38 @@ _gaq.push(['_trackPageview']);
 <!--\  main display -->
 <div id="coloumns">
 
-	<div id="coloumn">
-
+	<div id="coloumn" style="padding:0 15px; height:355px;">
+		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+		<script>
+		new TWTR.Widget({
+		  version: 2,
+		  type: 'profile',
+		  rpp: 4,
+		  interval: 30000,
+		  width: 280,
+		  height: 270,
+		  theme: {
+			shell: {
+			  background: 'rgba(12, 12, 12, 0.6);',
+			  color: '#ffffff'
+			},
+			tweets: {
+			  background: '#000000',
+			  color: '#ffffff',
+			  links: '#f31414'
+			}
+		  },
+		  features: {
+			scrollbar: false,
+			loop: true,
+			live: true,
+			hashtags: true,
+			timestamp: true,
+			avatars: false,
+			behavior: 'all'
+		  }
+		}).render().setUser('teamunwired').start();
+		</script>
 	</div>
 
 	<div id="coloumn"  style="margin:0px 10px">
