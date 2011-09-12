@@ -117,8 +117,8 @@ Presenting, Team Unwired.<br /><br /><br />
 	<div id="coloumn">
 		<div class='boxtitle'>News and updates</div>
 		<ul class='news'>
-			<li>Teamunwired got selected as the only team from kerala to participate in BAJA SAE India 2012 out of the 240 teams that participated in virtual BAJA from all over the country.</li>
-			<li>The entire designing process has been completed.</li>
+			<li>Teamunwired is the only team selected from kerala to participate in BAJA SAE India 2012 out of 240 national teams that participated in virtual BAJA where we presented our CAD model.</li>
+			<li>The entire designing process has been completed and virtual tests conducted.</li>
 			<li>Work is now focused on fabrication and sponsorship.</li>
 		</ul>
 
