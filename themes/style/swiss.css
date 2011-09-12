@@ -109,3 +109,28 @@ src: local('Droid Sans'), local('DroidSans'), url('../fonts/DroidSans.woff') for
 	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 	background: #83b5b5;
 }
+
+/* SponWall stuff */
+
+div#SponWall {
+	margin-bottom: 30px;
+}
+
+div#SponWall img {
+	cursor: pointer;
+	margin: 35px;
+	position: relative;
+	width: 240px;
+	display:inline-block;
+	background:white;
+	box-shadow:0 0 15px #999999 inset
+}
+
+div#SponWall img:hover {
+	box-shadow:0 0 40px #444444 inset
+}
+
+.sponsorFlip:hover {
+	border: 1px solid #999999;
+	box-shadow: 0 0 30px #999999 inset;
+}
