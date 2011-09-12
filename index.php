@@ -8,6 +8,14 @@
 <meta name="author" content="Jaseem Abid" />
 <meta name="revised" content="Jaseem Abid, 6/09/2011" />
 <meta name="robots" content="noarchive">
+
+<meta property="og:title" content="TEAMUNWIRED" />
+<meta property="og:type" content="non_profit" />
+<meta property="og:url" content="http://www.facebook.com/teamunwired" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="teamunwired" />
+<meta property="fb:admins" content="798947421" />
+
 <meta charset=UTF-8">
 
 <script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
@@ -81,15 +89,15 @@ _gaq.push(['_trackPageview']);
 	<img src='graphics/homepan.png' class="goldenImage" />
 </div>
 <div class='main2'>
-		<div class='boxtitle'>About teamunwired</div>
-			Hailing from God's own country,teamunwired is an ensemble of engineers-to-be
-			at National Institute of Technology Calicut (NIT Calicut), one of the
-			country's best technical institutes. We call ourselves Unwired, a team
-			that relishes on engineering challenges. The primary motivation for
-			competing in Baja SAE lies in the desire to go through the hands-on
-			experience of building an engineering prototype and the thrill in
-			watching it work. The 25-membered team comprises inter-disciplinary
-			undergraduate students from 2nd to 4th year.
+	<div class='boxtitle'>About teamunwired</div>
+Hailing from God's own country,teamunwired is an ensemble of engineers-to-be
+at National Institute of Technology Calicut (NIT Calicut), one of the
+country's best technical institutes. We call ourselves Unwired, a team
+that relishes on engineering challenges. The primary motivation for
+competing in Baja SAE lies in the desire to go through the hands-on
+experience of building an engineering prototype and the thrill in
+watching it work. The 25-membered team comprises inter-disciplinary
+undergraduate students from 2nd to 4th year.
 </div>
 
 
