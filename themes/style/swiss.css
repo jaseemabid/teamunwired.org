@@ -1,0 +1,111 @@
+/* Custom font embedding */
+@font-face {
+font-family: 'Droid Sans';
+font-style: normal;
+font-weight: normal;
+src: local('Droid Sans'), local('DroidSans'), url('../fonts/DroidSans.woff') format('woff');
+}
+
+.deck-container {
+	background-color: black;
+	/*background-image: url("../../graphics/hexagon.png");*/
+	color: gray;
+	font-family: 'Droid Sans',arial,serif !important;
+	font-size: 16px;
+}
+.deck-container .slide {
+
+}
+
+.deck-container h1 {
+	color: gray;
+}
+.deck-container h2 {
+	color: #F31414;
+	border-bottom-color: #ccc;
+}
+.deck-container h3 {
+	color: gray;
+}
+.deck-container pre {
+	border-color: #ccc;
+}
+.deck-container code {
+	color: #888;
+}
+.deck-container blockquote {
+	font-size: 2em;
+	font-style: italic;
+	padding: 1em 2em;
+	color: #000;
+	border-left: 5px solid #ccc;
+}
+.deck-container blockquote p {
+	margin: 0;
+}
+.deck-container blockquote cite {
+	font-size: .5em;
+	font-style: normal;
+	font-weight: bold;
+	color: #888;
+}
+.deck-container ::-moz-selection {
+	background: #F31414;
+	color: #fff;
+}
+.deck-container ::selection {
+	background: #F31414;
+	color: #fff;
+}
+.deck-container a, .deck-container a:hover, .deck-container a:focus, .deck-container a:active, .deck-container a:visited {
+	color: #F31414;
+	text-decoration: none;
+}
+.deck-container a:hover, .deck-container a:focus {
+	text-decoration: underline;
+}
+.deck-container .deck-prev-link, .deck-container .deck-next-link {
+	background: #ccc;
+	font-family: serif;
+}
+.deck-container .deck-prev-link, .deck-container .deck-prev-link:hover, .deck-container .deck-prev-link:focus, .deck-container .deck-prev-link:active, .deck-container .deck-prev-link:visited, .deck-container .deck-next-link, .deck-container .deck-next-link:hover, .deck-container .deck-next-link:focus, .deck-container .deck-next-link:active, .deck-container .deck-next-link:visited {
+	color: #fff;
+}
+.deck-container .deck-prev-link:hover, .deck-container .deck-prev-link:focus, .deck-container .deck-next-link:hover, .deck-container .deck-next-link:focus {
+	background: #F31414;
+	text-decoration: none;
+}
+.deck-container .deck-status {
+	font-size: 0.6666em;
+}
+.deck-container.deck-menu .slide {
+	background: #eee;
+}
+.deck-container.deck-menu .deck-current {
+	background: #ddf;
+}
+
+.nextLink {
+	font-weight: bold;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+	background: #ccc;
+	color: #888;
+	padding: 2px 4px;
+	margin: 0 4px;
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3);
+}
+
+.nextLink:hover, .nextLink:focus {
+	position: relative;
+	top: 1px;
+	left: 1px;
+	-webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+	background: #83b5b5;
+}
