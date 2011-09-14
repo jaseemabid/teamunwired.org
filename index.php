@@ -18,26 +18,9 @@
 
 <meta charset=UTF-8">
 
-<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
-<!-- <script type="text/javascript" src="js/jquery.hoverpulse.js"></script> -->
-<script type="text/javascript" src="js/jquery.accordion.js"></script>
-<script type="text/javascript" src="js/tuw.js"></script>
-<link href="css/tuw.css" rel="stylesheet"  />
-<link href="css/polaroid.css" rel="stylesheet"/>
 <link rel="shortcut icon" href="graphics/favicon.ico">
-
-
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-24580991-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-
+<link href="css/tuw.css" rel="stylesheet"	/>
+<link href="css/polaroid.css" rel="stylesheet"/>
 
 </head>
 <body>
@@ -103,31 +86,31 @@ undergraduate students from 2nd to 4th year.
 
 </div>
 
-<!--\  main display -->
+<!--\	main display -->
 <div id="coloumns">
 
 	<div id="coloumn" style="padding:0 15px; height:355px;">
 		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
 		<script>
 		new TWTR.Widget({
-		  version: 2,
-		  type: 'profile',
-		  rpp: 4,
-		  interval: 30000,
-		  width: 280,
-		  height: 270,
-		  theme: {
+			version: 2,
+			type: 'profile',
+			rpp: 4,
+			interval: 30000,
+			width: 280,
+			height: 270,
+			theme: {
 			shell: {
-			  background: 'rgba(12, 12, 12, 0.6);',
-			  color: '#ffffff'
+				background: 'rgba(12, 12, 12, 0.6);',
+				color: '#ffffff'
 			},
 			tweets: {
-			  background: '#000000',
-			  color: '#ffffff',
-			  links: '#f31414'
+				background: '#000000',
+				color: '#ffffff',
+				links: '#f31414'
 			}
-		  },
-		  features: {
+			},
+			features: {
 			scrollbar: false,
 			loop: true,
 			live: true,
@@ -135,12 +118,12 @@ undergraduate students from 2nd to 4th year.
 			timestamp: true,
 			avatars: false,
 			behavior: 'all'
-		  }
+			}
 		}).render().setUser('teamunwired').start();
 		</script>
 	</div>
 
-	<div id="coloumn"  style="margin:0px 10px">
+	<div id="coloumn"	style="margin:0px 10px">
 		<div class='boxtitle' style="height:300px" id='SponsorTitle' >Current Sponsor</div>
 		<br />
 		<a class='SponsorLink' href='http://www.solidworks.com/'>
@@ -167,14 +150,26 @@ undergraduate students from 2nd to 4th year.
 </div>
 
 <script type="text/javascript">
-  var uvOptions = {};
-  (function() {
-    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/kAKUVMZAtc276EJ5JiERLQ.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-  })();
+var uvOptions = {};
+(function() {
+	var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+	uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/kAKUVMZAtc276EJ5JiERLQ.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+})();
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-24580991-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 </script>
 
+<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.accordion.js"></script>
+<script type="text/javascript" src="js/tuw.js"></script>
 </body>
 </html>
 
