@@ -17,13 +17,10 @@
 <meta property="fb:admins" content="798947421" />
 
 <meta charset=UTF-8">
-
-<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
-<script type="text/javascript" src="js/jquery.accordion.js"></script>
-<script type="text/javascript" src="js/tuw.js"></script>
+<link rel="shortcut icon" href="graphics/favicon.ico">
 <link href="css/tuw.css" rel="stylesheet"  />
 <link href="css/polaroid.css" rel="stylesheet"/>
-<link rel="shortcut icon" href="graphics/favicon.ico">
+
 </head>
 <body>
 
@@ -120,6 +117,10 @@ undergraduate students from 2nd to 4th year.
 		<li>(c) www.teamunwired.org</li>
 	</ul>
 </div>
+
+<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.accordion.js"></script>
+<script type="text/javascript" src="js/tuw.js"></script>
 
 </body>
 </html>
