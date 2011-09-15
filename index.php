@@ -137,6 +137,7 @@ undergraduate students from 2nd to 4th year.
 			<li>Teamunwired is the only team selected from kerala to participate in BAJA SAE India 2012 out of 240 national teams that participated in virtual BAJA where we presented our CAD model.</li>
 			<li>The entire designing process has been completed and virtual tests conducted.</li>
 			<li>Work is now focused on fabrication and sponsorship.</li>
+			<li>Register for ROBOCON <a href="https://docs.google.com/spreadsheet/viewform?formkey=dEZHNjdmWFRpLXNWTG1SbFdPQkx2OUE6MQ">here</a></li>
 		</ul>
 
 	</div>
