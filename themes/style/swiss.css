@@ -134,3 +134,10 @@ div#SponWall img:hover {
 	border: 1px solid #999999;
 	box-shadow: 0 0 30px #999999 inset;
 }
+
+.goldenImage {
+width:450px;
+border:10px solid rgba(12, 12, 12, 0.6);
+border-radius:5px;
+margin:30px 10px 20px 10px;
+}

@@ -25,7 +25,7 @@ html {
 }
 .deck-container div, .deck-container span, .deck-container object, .deck-container iframe,
 .deck-container h1, .deck-container h2, .deck-container h3, .deck-container h4, .deck-container h5, .deck-container h6, .deck-container p, .deck-container blockquote, .deck-container pre,
-.deck-container abbr, .deck-container address, .deck-container cite, .deck-container code, .deck-container del, .deck-container dfn, .deck-container em, .deck-container img, .deck-container ins, .deck-container kbd, .deck-container q, .deck-container samp,
+.deck-container abbr, .deck-container address, .deck-container cite, .deck-container code, .deck-container del, .deck-container dfn, .deck-container em, .deck-container ins, .deck-container kbd, .deck-container q, .deck-container samp,
 .deck-container small, .deck-container strong, .deck-container sub, .deck-container sup, .deck-container var, .deck-container b, .deck-container i, .deck-container dl, .deck-container dt, .deck-container dd, .deck-container ol, .deck-container ul, .deck-container li,
 .deck-container fieldset, .deck-container form, .deck-container label, .deck-container legend,
 .deck-container table, .deck-container caption, .deck-container tbody, .deck-container tfoot, .deck-container thead, .deck-container tr, .deck-container th, .deck-container td,
@@ -164,9 +164,6 @@ html {
   width: auto;
   overflow: visible;
 }
-.ie7 .deck-container img {
-  -ms-interpolation-mode: bicubic;
-}
 .deck-container, .deck-container select, .deck-container input, .deck-container textarea {
   color: #444;
 }
@@ -223,15 +220,15 @@ html {
   font-size: 1em;
   font-weight: bold;
 }
-.deck-container img, .deck-container iframe, .deck-container video {
+.deck-container iframe, .deck-container video {
   display: block;
   max-width: 100%;
 }
-.deck-container video, .deck-container iframe, .deck-container img {
+.deck-container video, .deck-container iframe {
   display: block;
   margin: 0 auto;
 }
-.deck-container p, .deck-container blockquote, .deck-container iframe, .deck-container img, .deck-container ul, .deck-container ol, .deck-container pre, .deck-container video {
+.deck-container p, .deck-container blockquote, .deck-container iframe, .deck-container ul, .deck-container ol, .deck-container pre, .deck-container video {
   margin-bottom: 1em;
 }
 .deck-container pre {
