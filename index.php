@@ -117,13 +117,12 @@ Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at 
 	<div id="coloumn">
 		<div class='boxtitle'>News and updates</div>
 		<ul class='news'>
-			<li> Paathshaala developer meetup ! Venue : CSED 301. Monday Oct 3 05:00 PM http://t.co/lpydfSCp </li>
+			<li>Paathshaala developer meetup! Venue : CSED 301. Monday Oct 3 05:00 PM <a href="http://t.co/lpydfSCp"></a> Know more</li>
 			<li>Thanks to our title sponsor Gasotech.</li>
 			<li>The new car : gasotech unwind 2.0</li>
 			<li>Teamunwired is the only team selected from kerala to participate in BAJA SAE India 2012.</li>
 			<li>Designing process completed and virtual tests ok. Fabrication and marketing in active phase.</li>
 			<li>Register for ROBOCON <a href="https://docs.google.com/spreadsheet/viewform?formkey=dEZHNjdmWFRpLXNWTG1SbFdPQkx2OUE6MQ">here</a></li>
-			<li>Paathshaala Developer Meetup <a href="https://github.com/nitcalicut/Paathshaala/wiki/Paathshaala-Developer-Meetup">here</a></li>
 			<li>Teamunwired orientation was a huge success. First ever club orientation at NITC OAT. More info soon</li>
 			<li>Best wishes to all our teams for Shastra</li>
 		</ul>
