@@ -117,7 +117,7 @@ Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at 
 	<div id="coloumn">
 		<div class='boxtitle'>News and updates</div>
 		<ul class='news'>
-			<li>Paathshaala developer meetup! Venue : CSED 301. Monday Oct 3 05:00 PM <a href="http://t.co/lpydfSCp"></a> Know more</li>
+			<li><a href="http://t.co/lpydfSCp">Paathshaala developer meetup!</a><br/>CSED 301. Monday Oct 3 05:00 PM.<br/></li>
 			<li>Thanks to our title sponsor Gasotech.</li>
 			<li>The new car : gasotech unwind 2.0</li>
 			<li>Teamunwired is the only team selected from kerala to participate in BAJA SAE India 2012.</li>
