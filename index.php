@@ -2,26 +2,21 @@
 <html>
 <head>
 <title>Team unwired</title>
-
+<meta charset=UTF-8">
+<link rel="shortcut icon" href="graphics/favicon.ico">
+<link href="css/tuw.css" rel="stylesheet"/>
+<link href="css/polaroid.css" rel="stylesheet"/>
 <meta name="description" content="teamunwired NIT Calicut" />
 <meta name="keywords" content="teamunwired, unwired, nitc, nitcalicut, NIT Calcut, engineering, aero design, BAJA, rocketry " />
 <meta name="author" content="Jaseem Abid" />
 <meta name="revised" content="Jaseem Abid, 6/09/2011" />
 <meta name="robots" content="noarchive">
-
 <meta property="og:title" content="TEAMUNWIRED" />
 <meta property="og:type" content="non_profit" />
 <meta property="og:url" content="http://www.facebook.com/teamunwired" />
 <meta property="og:image" content="" />
 <meta property="og:site_name" content="teamunwired" />
 <meta property="fb:admins" content="798947421" />
-
-<meta charset=UTF-8">
-
-<link rel="shortcut icon" href="graphics/favicon.ico">
-<link href="css/tuw.css" rel="stylesheet"	/>
-<link href="css/polaroid.css" rel="stylesheet"/>
-
 </head>
 <body>
 
@@ -33,18 +28,16 @@
 	<a href="http://bajasaeindia.org/"><img src="graphics/saeindia.png" alt="BAJA SAE India" title="BAJA SAE India" class="mainlogo" style="float:right; height:90px; position:relative; top:10px;" /></a>
 </div>
 <!-- \logos -->
-
-
 <!-- global nav-->
 <nav>
 	<ul id="globalnav">
-		<li id="home"><a href="#" class="live">Home</a></li>
-		<li id="baja"><a href="#">Baja SAE</a></li>
-		<li id="activities"><a href="#">Activities</a></li>
-		<li id="gallery"><a href="#">Gallery</a></li>
-		<li id="sponsorship"><a href="#">Sponsorship</a></li>
-		<li id="team"><a href="#">The Team</a></li>
-		<li id="contact"><a href="#">Contact</a></li>
+	<li id="home"><a href="#" class="live">Home</a></li>
+	<li id="baja"><a href="#">Baja SAE</a></li>
+	<li id="activities"><a href="#">Activities</a></li>
+	<li id="gallery"><a href="#">Gallery</a></li>
+	<li id="sponsorship"><a href="#">Sponsorship</a></li>
+	<li id="team"><a href="#">The Team</a></li>
+	<li id="contact"><a href="#">Contact</a></li>
 	</ul>
 </nav>
 <!-- \ global nav-->
@@ -59,7 +52,6 @@
 <!-- tab 4--> <!-- Sponsorship -->
 <!-- tab 5--> <!-- Team -->
 <!-- tab 6--> <!-- Contact -->
-
 <!-- Preloading with tab 0 -->
 
 <div class="main1">
@@ -75,8 +67,6 @@
 	<div class='boxtitle'>About teamunwired</div>
 Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at National Institute of Technology Calicut (NIT Calicut), one of the country's best technical institutes. We call ourselves Unwired, a team that relishes on engineering challenges. The primary motivation for competing in Baja SAE lies in the desire to go through the hands-on experience of building an engineering prototype and the thrill in watching it work. The 25-membered team comprises inter disciplinary undergraduate students from 2nd to 4th year.
 </div>
-
-
 </div>
 
 <!--\	main display -->
