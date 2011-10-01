@@ -34,7 +34,7 @@ $(document).ready(function(){
 				},
 				{
 					'src': 'graphics/logos/gasotech.png',
-					'type': '0', 
+					'type': '1', 
 					'link': 'http://www.gasotech.com/'
 				},
 				{
