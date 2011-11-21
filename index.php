@@ -65,7 +65,8 @@
 </div>
 <div class='main2'>
 	<div class='boxtitle'>About teamunwired</div>
-Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at National Institute of Technology Calicut (NIT Calicut), one of the country's best technical institutes. We call ourselves Unwired, a team that relishes on engineering challenges. The primary motivation for competing in Baja SAE lies in the desire to go through the hands-on experience of building an engineering prototype and the thrill in watching it work. The 25-membered team comprises inter disciplinary undergraduate students from 2nd to 4th year.
+Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at National Institute of Technology Calicut (NIT Calicut), one of the country's best technical institutes. We call ourselves Unwired, a team that relishes on engineering challenges. The primary motivation for competing in Baja SAE lies in the desire to go through the hands-on experience of building an engineering prototype and the thrill in watching it work. The 25-membered team comprises inter disciplinary undergraduate students from 2nd to 4th year.<br/><br/>
+<li><a target="_blank" href='content/TeamUnwiredbrochure.pdf' >Download Marketing Broschure</a></li>
 </div>
 </div>
 
@@ -91,11 +92,11 @@ Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at 
 		<div class='boxtitle'>News and updates</div>
 		<ul class='news'>
 			<li>The new car : gasotech unwind 2.0. Thanks to our title sponsor Gasotech</li>
+			<li><a target="_blank" href='content/TeamUnwiredbrochure.pdf' >Download Marketing Broschure</a></li>
 			<li>Unwind 1.0 displayed in tathva 2011 Wheels stall thrilling huge crowds</li>
 			<li>Teamunwired is the only team selected from kerala to participate in BAJA SAE India 2012.</li>
 			<li>Designing process completed and virtual tests ok. Fabrication and marketing in active phase.</li>
 			<li>Teamunwired orientation was a huge success. First ever club orientation at NITC OAT. More info soon</li>
-			<li>Congratulations to all Tathva 2011 winners</li>
 		</ul>
 	</div>
 </div>
