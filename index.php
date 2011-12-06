@@ -17,6 +17,25 @@
 <meta property="og:image" content="" />
 <meta property="og:site_name" content="teamunwired" />
 <meta property="fb:admins" content="798947421" />
+
+<script type="text/javascript">
+var uvOptions = {};
+(function() {
+	var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+	uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/kAKUVMZAtc276EJ5JiERLQ.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+})();
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-24580991-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
 </head>
 <body>
 
@@ -36,6 +55,7 @@
 	<li id="activities"><a href="#">Activities</a></li>
 	<li id="gallery"><a href="#">Gallery</a></li>
 	<li id="sponsorship"><a href="#">Sponsorship</a></li>
+	<li id="sponsors"><a href="#">Sponsors</a></li>
 	<li id="team"><a href="#">The Team</a></li>
 	<li id="contact"><a href="#">Contact</a></li>
 	</ul>
@@ -106,24 +126,6 @@ Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at 
 		<li>(c) www.teamunwired.org</li>
 	</ul>
 </div>
-
-<script type="text/javascript">
-var uvOptions = {};
-(function() {
-	var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-	uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/kAKUVMZAtc276EJ5JiERLQ.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-})();
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-24580991-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
 
 <script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
 <script type="text/javascript" src="js/jquery.accordion.js"></script>
