@@ -113,7 +113,7 @@ Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at 
 		<ul class='news'>
 			<li>The new car : gasotech unwind 2.0. Thanks to our title sponsor Gasotech</li>
 			<li><a target="_blank" href='content/TeamUnwiredbrochure.pdf' >Download Marketing Brochure</a></li>
-			<li>Unwind 1.0 displayed in tathva 2011 Wheels stall thrilling huge crowds</li>
+			<li><a target="_blank" href='http://meandtuw.blogspot.com/'>Few words from the team captain</a> </li>
 			<li>Teamunwired is the only team selected from kerala to participate in BAJA SAE India 2012.</li>
 			<li>Designing process completed and virtual tests ok. Fabrication and marketing in active phase.</li>
 			<li>Teamunwired orientation was a huge success. First ever club orientation at NITC OAT. More info soon</li>
