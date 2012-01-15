@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Team unwired</title>
-<meta charset=UTF-8">
+<meta charset=UTF-8>
 <link rel="shortcut icon" href="graphics/favicon.ico">
 <link href="css/tuw.css" rel="stylesheet"/>
 <link href="css/polaroid.css" rel="stylesheet"/>
@@ -81,34 +81,34 @@ _gaq.push(['_trackPageview']);
 	<div class="text" style="width:460px;top:95px; left:150px;">
 		You can't do anything about the length of your life, but you can do something about its width and depth.
 	</div>
-	<img src='graphics/homepan.png' class="goldenImage" />
+	<img src='graphics/homepan.png' class="goldenImage" alt="Car at hockey ground"/>
 </div>
 <div class='main2'>
 	<div class='boxtitle'>About teamunwired</div>
 Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at National Institute of Technology Calicut (NIT Calicut), one of the country's best technical institutes. We call ourselves Unwired, a team that relishes on engineering challenges. The primary motivation for competing in Baja SAE lies in the desire to go through the hands-on experience of building an engineering prototype and the thrill in watching it work. The 25-membered team comprises inter disciplinary undergraduate students from 2nd to 4th year.<br/><br/>
-<li><a target="_blank" href='content/TeamUnwiredbrochure.pdf' >Download Marketing Brochure</a></li>
+<a target="_blank" href='content/TeamUnwiredbrochure.pdf' >Download Marketing Brochure</a>
 </div>
 </div>
 
 <!--\	main display -->
 <div id="coloumns">
 
-	<div id="coloumn" style="padding:0 15px; height:355px;">
+	<div class=coloumn style="padding:0 15px; height:355px;">
 		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
 		<script>
 		(new TWTR.Widget({version:2,type:"profile",rpp:4,interval:3E4,width:280,height:270,theme:{shell:{background:"rgba(12, 12, 12, 0.6);",color:"#ffffff"},tweets:{background:"#000000",color:"#ffffff",links:"#f31414"}},features:{scrollbar:false,loop:true,live:true,hashtags:true,timestamp:true,avatars:false,behavior:"all"}})).render().setUser("teamunwired").start();
 		</script>
 	</div>
 
-	<div id="coloumn"	style="margin:0px 10px">
+	<div class=coloumn	style="margin:0px 10px">
 		<div class='boxtitle' style="height:300px" id='SponsorTitle' >Current Sponsor</div>
 		<br />
 		<a class='SponsorLink' href='http://www.solidworks.com/'>
-			<img id='jSlider' src="graphics/logos/sw.png" class="sponLogos" />
+			<img id='jSlider' src="graphics/logos/sw.png" class="sponLogos" alt="Solid works"/>
 		</a>
 	</div>
 
-	<div id="coloumn">
+	<div class=coloumn>
 		<div class='boxtitle'>News and updates</div>
 		<ul class='news'>
 			<li>The new car : gasotech unwind 2.0. Thanks to our title sponsor Gasotech</li>

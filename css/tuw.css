@@ -187,7 +187,7 @@ border-bottom:1px solid red;
 clear:both;
 }
 
-#coloumn {
+.coloumn {
 position:relative;
 float:left;
 left:10px;
