@@ -7,8 +7,7 @@
 
 body {
 
-	background-color: rgb(34,34,34);
-	color: rgb(241,241,235);
+	background-color: #000000;
 	font-family: 'Droid Sans', sans-serif;
 
 	@imght : 500px;
@@ -45,17 +44,44 @@ body {
 			
 			}
 
-
 		}
 	
 		section#content {
 			h2 {
 				color: rgb(241,241,235);
 				text-align: center;
+				text-transform: uppercase;
 				margin:10px 0 20px 0;
 			}
 			
 			width:100%;
+			background-color: #000000;			
+
+			div.article {
+
+				padding: 20px;
+				color: #e1e1e1;
+				font-size: 14px;
+				border-radius: 10px;
+				box-shadow: inset 0 0 10px #555555;
+				margin-top: 20px;
+				padding: 0 0 10px 0;
+				text-align: center;
+				position: relative;
+				cursor: pointer;
+
+				&:hover {
+					-webkit-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
+					-moz-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
+					-ms-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
+					-o-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
+					box-shadow: 0 2px 7px rgba(0,0,0,0.4);
+				}
+
+
+			}
+			
+			
 		}
 
 	}
