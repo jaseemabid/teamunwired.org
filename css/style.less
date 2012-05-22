@@ -1,0 +1,24 @@
+body {
+
+	@imght : 500px;
+	section#intro {
+		height: @imght;
+		width:100%;
+		background-color: #000;
+		z-index:-1;
+		position: fixed;
+		background-image: url('../img/homepan.png');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	
+	section#content {
+		position: relative;
+		top:@imght;
+		margin:10px solid #efefef;
+		min-height: 500px;
+		width:100%;
+		background-color: #555;
+	}
+	
+}
