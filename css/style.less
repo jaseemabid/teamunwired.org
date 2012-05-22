@@ -1,25 +1,46 @@
 body {
 
+
 	background-color: rgb(34,34,34);
 	color: rgb(241,241,235);
 
 	@imght : 500px;
-	section#intro {
-		height: @imght;
-		width:100%;
-		z-index:-1;
-		position: fixed;
-		background-image: url('../img/homepan.png');
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
+
+	div.container-fluid {
+		padding:0px;
+
+		section#intro {
+			height: @imght;
+			width:100%;
+			z-index:-1;
+			position: fixed;
+			background-image: url('../img/homepan.png');
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+
+			div#logos {
+			
+				img {
+					position:relative;
+					top:40px;
+					left:150px;
+					padding:10px;
+				}
+			
+			}
+
+
+		}
+	
+		section#content {
+			position: relative;
+			top:@imght;
+			margin:10px solid #efefef;
+			min-height: 500px;
+			width:100%;
+		}
+
 	}
 	
-	section#content {
-		position: relative;
-		top:@imght;
-		margin:10px solid #efefef;
-		min-height: 500px;
-		width:100%;
-	}
 	
 }
