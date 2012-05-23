@@ -46,24 +46,25 @@ body {
 
 		}
 	
-		section#content {
+		section#content {			
+			position: relative;
+			top: @imght;
+			width:100%;
+			background-color: #000000;			
+
 			h2 {
 				color: rgb(241,241,235);
 				text-align: center;
 				text-transform: uppercase;
 				margin:10px 0 20px 0;
 			}
-			
-			width:100%;
-			background-color: #000000;			
+
 
 			div.article {
 
-				padding: 20px;
 				color: #e1e1e1;
 				font-size: 14px;
 				border-radius: 10px;
-				box-shadow: inset 0 0 10px #555555;
 				margin-top: 20px;
 				padding: 0 0 10px 0;
 				text-align: center;
@@ -71,16 +72,43 @@ body {
 				cursor: pointer;
 
 				&:hover {
-					-webkit-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
-					-moz-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
-					-ms-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
-					-o-box-shadow: 0 2px 7px rgba(0,0,0,0.4);
-					box-shadow: 0 2px 7px rgba(0,0,0,0.4);
+					box-shadow: inset 0 0 10px #555555;
+				}
+
+				span.artTitle {
+					font-size: 18px;
+					display:block;
+					margin:15px 0 25px;
 				}
 
 
 			}
 			
+			div#aboutUs {
+
+			}
+
+			div#social {
+
+				padding: 20px 0 40px 0;
+
+				a {
+					display: block;
+					width: 100px;
+					float: left;
+				}
+
+				img {
+					width: 24px;
+					height: 24px;
+					margin-bottom: 3px;
+					vertical-align: middle;
+				}
+
+			}
+
+
+
 			
 		}
 
