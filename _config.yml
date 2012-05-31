@@ -1,0 +1,6 @@
+permalink: /:month-:day-:year/:title.html
+server : true
+server_port: 4000
+safe : false
+auto : true
+
