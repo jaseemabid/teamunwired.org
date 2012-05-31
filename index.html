@@ -1,71 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Team unwired</title>
-<meta charset=UTF-8>
-<link rel="shortcut icon" href="graphics/favicon.ico">
-<link href="css/bootstrap.min.css" rel="stylesheet"/>
-<link rel="stylesheet/less" type="text/css" href="css/style.less">
-<meta name="description" content="teamunwired NIT Calicut" />
-<meta name="keywords" content="teamunwired, unwired, nitc, nitcalicut, NIT Calcut, engineering, aero design, BAJA, rocketry " />
-<meta name="author" content="Jaseem Abid" />
-<meta name="revised" content="Jaseem Abid, 6/09/2011" />
-<meta name="robots" content="noarchive">
-<meta property="og:title" content="TEAMUNWIRED" />
-<meta property="og:type" content="non_profit" />
-<meta property="og:url" content="http://www.facebook.com/teamunwired" />
-<meta property="og:image" content="" />
-<meta property="og:site_name" content="teamunwired" />
-<meta property="fb:admins" content="798947421" />
-</head>
-<body>
-<div class="container-fluid">
-	<section id="intro">
-		<div id="logos">
-			<a href="/"><img class="logo" src="graphics/tuwlogo100px.png" alt="club logo" title="Teamunwired" class="mainlogo"></a>
-			<a href="http://www.nitc.ac.in"><img class="logo" src="graphics/NITC-logo.png" alt="NIT Calcut" title="Visit NITC website" class="mainlogo"></a>
-		</div>
-		<div id="mainLinks">
-			<a class="mainLink" href="/">FSAE</a>
-			<a class="mainLink" href="/">BAJA SAE India</a>
-			<a class="mainLink" href="/">Sponsors</a>
-			<a class="mainLink" href="/">Contact Us</a>
-		</div>
-	</section>
+---
+layout: index
+title: Teamunwired
+---
+
 	<section id="content">
 		<div class="container">
 			<h2 id="">THIS IS WHAT WE HAVE BEEN UPTO</h2>
 			<div class="row"> <!-- Row 1 -->
 				<div class="span4"> <!-- Col 1 -->
-					<div class="article" id="aboutUs">
-						<img class="artImage" src="img/team.jpg" alt="team image" title="team image"/>
-						<span class="artTitle">A word about us</span>
-						<p>
-						Hailing from God's own country,teamunwired is an ensemble of engineers-to-be at National Institute of Technology Calicut (NIT Calicut), one of the country's best technical institutes. We call ourselves Unwired, a team that relishes on engineering challenges. The primary motivation for competing in Baja SAE lies in the desire to go through the hands-on experience of building an engineering prototype and the thrill in watching it work. The 25-membered team comprises inter disciplinary undergraduate students from 2nd to 4th year.</p>
-					</div>
-					<div class="article" id="cars">
-						<div id="carsCarousel" class="carousel">
-							<!-- Carousel items -->
-							<div class="carousel-inner">
-								<div class="active item">
-									<img src="img/cars/1.jpg"/>
-									<div class="carousel-caption">
-										<h4>Unwind 1.0</h4>
-										<p>Some caption goes here.</p>
-									</div>
-								</div>
-								<div class="item">
-									<img src="img/cars/2.jpg"/>
-								</div>
-								<div class="item">
-									<img src="img/cars/3.jpg"/>
-								</div>
-							</div>
-							<!-- Carousel nav -->
-							<a class="carousel-control left" href="#carsCarousel" data-slide="prev">&lsaquo;</a>
-							<a class="carousel-control right" href="#carsCarousel" data-slide="next">&rsaquo;</a>
-						</div>
-					<span class="artTitle">The Cars</span>
+					{% include aboutus.ext %}
+					{% include cars.ext %}
 					</div>
 				</div> <!-- / Col 1 -->
 				<div class="span4"> <!-- Col 2 -->
@@ -75,78 +19,8 @@
 					</div>
 				</div> <!-- / Col 2 -->
 				<div class="span4"> <!-- Col 3 -->
-					<div class="article" id="social">
-						<span class="artTitle">Let’s keep in touch</span>
-						<a href="http://www.twitter.com/teamunwired">
-							<img src="img/social-media/twitter.png"><br>
-							Twitter
-						</a>
-						<a href="/">
-							<img src="img/social-media/google_plus.png"><br>
-							Google+
-						</a>
-						<a href="http://www.facebook.com/teamunwired">
-							<img src="img/social-media/facebook.png"><br>
-							Facebook
-						</a>
-					</div>
+					{% include social.ext %}
 				</div> <!-- / Col 3 -->
 			</div> <!-- / Row 1 -->
 	</section>
-	<section id="footer">
-		<div class="container">
-			<div class="row"> <!-- Row -->
-				<div class="span4"> <!-- Col 1 -->
-					<ul>
-						<li><a href="/">Home</a></li>
-						<li><a href="/">About Us</a></li>
-						<li><a href="/">Formula Student</a></li>
-						<li><a href="/">Baja SAE India</a></li>
-					</ul>
-				</div> <!-- /Col 1 -->
-				<div class="span4"> <!-- Col 2 -->
-					<ul>
-						<li><a href="/">Activities</a></li>
-						<li><a href="/">Gallery</a></li>
-						<li><a href="/">Sponsorship</a></li>
-						<li><a href="/">The Team</a></li>
-					</ul>
-				</div> <!-- /Col 2 -->
-				<div class="span4"> <!-- Col 3 -->
-					<ul>
-						<li><a href="/">Updates</a></li>
-						<li><a href="/">News letters</a></li>
-						<li><a href="/">Contact Us</a></li>
-					</ul>
-				</div> <!-- /Col 3 -->
-			</div> <!-- / Row -->
-			<div class="row contact"> <!-- Row -->
-				<div class="span4"> <!-- Col 1 -->
-					<h3>General Contact</h3>
-					<p class="contact">
-						Anwer CM<br />
-						Team Lead<br />
-						cmanwer@gmail.com<br />
-						+91 9037 771 243<br />
-					</p>
-				</div>
-				<div class="span4"> <!-- Col 2 -->
-					<h3>Stay in touch</h3>
-					<ul>
-						<li><a href="http://twitter.com/teamunwired">Twitter</a></li>
-						<li><a href="http://facebook.com/teamunwired">Facebook</a></li>
-						<li><a href="/">Google Plus</a></li>
-					</ul>
-				</div>
-		</div> <!-- / Con -->
-	</section>
-</div>
-<script type="text/javascript" src="js/teamunwired.min.js"></script>
-<script type="text/javascript" src="js/less-1.3.0.min.js"></script>
-<script type="text/javascript">
-		 less.env = "development";
-		 less.watch();
-</script>
-</body>
-</html>
 
