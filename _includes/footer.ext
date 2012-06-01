@@ -28,12 +28,13 @@
 		<div class="row contact"> <!-- Row -->
 			<div class="span4"> <!-- Col 1 -->
 				<h3>General Contact</h3>
-				<p class="contact">
-					Anwer CM<br />
-					Team Lead<br />
-					cmanwer@gmail.com<br />
-					+91 9037 771 243<br />
-				</p>
+
+				<address>
+						<strong>Anwer CM</strong><br>
+						Team Lead<br>
+						cmanwer@gmail.com<br>
+						<abbr title="Phone">Ph: </abbr> +91 9037 771 243
+				</address>
 			</div>
 			<div class="span4"> <!-- Col 2 -->
 				<h3>Stay in touch</h3>
