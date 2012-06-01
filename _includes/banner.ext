@@ -4,9 +4,9 @@
 		<a href="http://www.nitc.ac.in"><img class="logo" src="graphics/NITC-logo.png" alt="NIT Calcut" title="Visit NITC website" class="mainlogo"></a>
 	</div>
 	<div id="mainLinks">
-		<a class="mainLink" href="/">FSAE</a>
-		<a class="mainLink" href="/">BAJA SAE India</a>
-		<a class="mainLink" href="/">Sponsors</a>
-		<a class="mainLink" href="/">Contact Us</a>
+		<a class="mainLink" href="/fsae.html">FSAE</a>
+		<a class="mainLink" href="/baja.html">BAJA SAE India</a>
+		<a class="mainLink" href="/sponsors.html">Sponsors</a>
+		<a class="mainLink" href="/contact.html">Contact Us</a>
 	</div>
 </section>
