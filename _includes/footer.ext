@@ -3,18 +3,18 @@
 		<div class="row"> <!-- Row -->
 			<div class="span4"> <!-- Col 1 -->
 				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/">About Us</a></li>
-					<li><a href="/">Formula Student</a></li>
-					<li><a href="/">Baja SAE India</a></li>
+					<li><a href="/#">Home</a></li>
+					<li><a href="/about.html">About Us</a></li>
+					<li><a href="/fsae.html">Formula Student</a></li>
+					<li><a href="/baja.html">Baja SAE India</a></li>
 				</ul>
 			</div> <!-- /Col 1 -->
 			<div class="span4"> <!-- Col 2 -->
 				<ul>
 					<li><a href="/">Activities</a></li>
-					<li><a href="/">Gallery</a></li>
-					<li><a href="/">Sponsorship</a></li>
-					<li><a href="/">The Team</a></li>
+					<li><a href="/gallery.html">Gallery</a></li>
+					<li><a href="/sponsors.html">Sponsorship</a></li>
+					<li><a href="/team.html">The Team</a></li>
 				</ul>
 			</div> <!-- /Col 2 -->
 			<div class="span4"> <!-- Col 3 -->
