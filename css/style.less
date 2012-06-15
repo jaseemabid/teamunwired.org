@@ -4,9 +4,27 @@
 	font-weight: normal;
 	src: local('Droid Sans'), local('DroidSans'), url('DroidSans.woff') format('woff');
 }
-body {
-	background-color: #000000;
+
+@darkText : #333333;
+@lightText : #F1F1EB;
+
+.droid {
 	font-family: 'Droid Sans', sans-serif;
+}
+
+.dark {
+	background-color: #111;
+	color: @lightText;
+}
+
+.light {
+	background-image: url('../img/bg_texture.jpg');
+	color: @darkText;
+}
+
+body {
+	.dark;
+	.droid;
 	@imght : 400px;
 	div.container-fluid {
 		padding:0px;
@@ -28,7 +46,7 @@ body {
 					font-size: 22px;
 					text-align: right;
 					font-weight: 300;
-					color:#efefef;
+					color:@lightText ;
 					top: -30px;
 					left: 500px;
 				}
@@ -37,59 +55,57 @@ body {
 		section#content {
 			position: relative;
 			top: @imght;
-			background-color: #111;
+			.dark;
+
 			padding-bottom: 50px;
-			h2, h3 {
-				color: rgb(241,241,235);
+			h2 {
+				text-transform: uppercase;
+				color: @lightText;
 				text-align: center;
 				margin:10px 0 20px 0;
 			}
-			h2 {
-				text-transform: uppercase;
+			h3 {
+				color: @darkText;
+				font-size: 18px;
+				margin: 0;
+				text-align: center;
+				padding:10px 0;
 			}
 			h4 {
-				color: rgb(241,241,235);
+				color: #333;
+				margin-left:20px;
 			}
-			p {
-				font-family: 'Droid Sans', sans-serif;
+			p, div, span, a, ul {
+				.droid;
 				font-size: 14px;
-				color:#F1F1EB;
+				color:@lightText;
 			}
 			a {
 				color: #08C;
 				text-decoration: none;
 			}
-			ul{
-				color:#F1F1EB;
-			}
 			div.article {
-				color: #222;
-				font-size: 14px;
+				.light;
 				border-radius: 2px;
 				margin-top: 20px;
-				padding: 0 0 10px 0;
+				padding: 0 0 5px 0;
 				position: relative;
 				cursor: pointer;
 				box-shadow: inset 0 0 5px #555555;
-				background-image: url('../img/bg_texture.jpg');
 				&:hover {
 					box-shadow: inset 0 0 7px #555555;
 				}
-				span.artTitle {
-					font-size: 18px;
-					display:block;
-					margin:15px 0 25px;
-					text-align: center;
-				}
+
 				img.artImage {
 					width:280px;
 					border-radius:20px;
 					padding:10px;
 				}
 				p {
+					.droid;
+					color: @darkText;
 					text-align:left;
-					padding:10px;
-					color:#333;
+					padding:5px 10px ;
 				}
 			}
 			div.row {
@@ -97,7 +113,7 @@ body {
 			}
 			div#cars {
 				div#carsCarousel {
-					height:240px;
+					height:200px;
 				}
 				div.carousel-caption {
 					background:rgba(0, 0, 0, 0.5);
@@ -120,6 +136,17 @@ body {
 					margin-bottom: 3px;
 					vertical-align: middle;
 				}
+			}
+			div#news {
+
+			}
+			div#baja {
+				h2, h3, h4 {
+					color: @lightText;
+				}
+			}
+			div#fsae{
+
 			}
 		}
 		section#sponsorWall {
@@ -157,7 +184,7 @@ body {
 				}
 			}
 			address {
-				font-family: 'Droid Sans', sans-serif;
+				.droid;
 				font-size: 16px;
 				line-height: 24px;
 			}
