@@ -1,0 +1,21 @@
+<a href='news.html'>
+	<div class="article" id="news">
+		<h3>News and updates</h3>
+		<a href=news.html#1>
+			<h4>News item 1</h4>
+			<p>This is what is happening now as news 1</p>
+		</a>
+		<a href=news.html#2>
+			<h4>News item 2</h4>
+			<p>This is what is happening now as news 2</p>
+		</a>
+		<a href=news.html#3>
+			<h4>News item 3</h4>
+			<p>This is what is happening now as news 3</p>
+		</a>
+		<a href=news.html#4>
+			<h4>News item 4</h4>
+			<p>This is what is happening now as news 4</p>
+		</a>
+	</div>
+</a>
