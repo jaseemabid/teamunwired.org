@@ -1,4 +1,4 @@
-hs.graphicsDir = '../img/galleryGraphics/';
+hs.graphicsDir = 'img/galleryGraphics/';
 hs.align = 'center';
 hs.transitions = ['expand', 'crossfade'];
 hs.outlineType = 'glossy-dark';
