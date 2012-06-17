@@ -128,8 +128,8 @@ a.highslide-credits:hover i {
 }
 
 /*****************************************************************************/
-/* Thumbnail boxes for the galleries.										*/
-/* Remove these if you are not using a gallery.							*/
+/* Thumbnail boxes for the galleries.                                        */
+/* Remove these if you are not using a gallery.                              */
 /*****************************************************************************/
 .highslide-gallery ul {
 	list-style-type: none;
@@ -176,8 +176,8 @@ html>/**/body .highslide-gallery ul img {
 }
 
 /*****************************************************************************/
-/* Controls for the galleries.												*/
-/* Remove these if you are not using a gallery								*/
+/* Controls for the galleries.											     */
+/* Remove these if you are not using a gallery							     */
 /*****************************************************************************/
 .highslide-controls {
 	width: 195px;
@@ -279,8 +279,8 @@ html>/**/body .highslide-gallery ul img {
 }
 
 /*****************************************************************************/
-/* Styles for the HTML popups												*/
-/* Remove these if you are not using Highslide HTML							*/
+/* Styles for the HTML popups											     */
+/* Remove these if you are not using Highslide HTML						     */
 /*****************************************************************************/
 .highslide-maincontent {
 	display: none;
@@ -344,9 +344,9 @@ html>/**/body .highslide-gallery ul img {
 }
 
 /*****************************************************************************/
-/* Styles for the Individual wrapper class names.							*/
-/* See www.highslide.com/ref/hs.wrapperClassName							*/
-/* You can safely remove the class name themes you don't use				*/
+/* Styles for the Individual wrapper class names.							 */
+/* See www.highslide.com/ref/hs.wrapperClassName							 */
+/* You can safely remove the class name themes you don't use				 */
 /*****************************************************************************/
 
 /* hs.wrapperClassName = 'draggable-header' */
@@ -598,8 +598,8 @@ html>/**/body .highslide-gallery ul img {
 }
 
 /*****************************************************************************/
-/* Styles for text based controls.											*/
-/* You can safely remove this if you don't use text based controls			*/
+/* Styles for text based controls.						                     */
+/* You can safely remove this if you don't use text based controls			 */
 /*****************************************************************************/
 
 .text-controls .highslide-controls {
@@ -619,7 +619,7 @@ html>/**/body .highslide-gallery ul img {
 	display: none;
 }
 .text-controls li {
-	background-image: url(../img/galleryGraphics/controlbar-text-buttons.png);
+    background-image: url(../img/galleryGraphics/controlbar-text-buttons.png);
 	background-position: right top !important;
 	padding: 0;
 	margin-left: 15px;
@@ -627,10 +627,10 @@ html>/**/body .highslide-gallery ul img {
 	width: auto;
 }
 .text-controls a {
-	background: url(../img/galleryGraphics/controlbar-text-buttons.png) no-repeat;
-	background-position: left top !important;
-	position: relative;
-	left: -10px;
+    background: url(../img/galleryGraphics/controlbar-text-buttons.png) no-repeat;
+    background-position: left top !important;
+    position: relative;
+    left: -10px;
 	display: block;
 	width: auto;
 	height: auto;
@@ -638,13 +638,13 @@ html>/**/body .highslide-gallery ul img {
 }
 .text-controls a span {
 	background: url(../img/galleryGraphics/controlbar-text-buttons.png) no-repeat;
-	margin: 1px 2px 1px 10px;
+    margin: 1px 2px 1px 10px;
 	display: block;
-	min-width: 4em;
-	height: 18px;
-	line-height: 18px;
+    min-width: 4em;
+    height: 18px;
+    line-height: 18px;
 	padding: 1px 0 1px 18px;
-	color: #333;
+    color: #333;
 	font-family: "Trebuchet MS", Arial, sans-serif;
 	font-size: 12px;
 	font-weight: bold;
@@ -710,9 +710,9 @@ html>/**/body .highslide-gallery ul img {
 
 
 /*****************************************************************************/
-/* Styles for the thumbstrip.												*/
-/* See www.highslide.com/ref/hs.addSlideshow								*/
-/* You can safely remove this if you don't use a thumbstrip 				*/
+/* Styles for the thumbstrip.							                     */
+/* See www.highslide.com/ref/hs.addSlideshow    							 */
+/* You can safely remove this if you don't use a thumbstrip 				 */
 /*****************************************************************************/
 
 .highslide-thumbstrip {

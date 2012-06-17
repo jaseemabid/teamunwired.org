@@ -33,7 +33,8 @@
 	width: 195px !important;
 }
 .large-dark .highslide-controls, .large-dark .highslide-controls ul, .large-dark .highslide-controls a {
-	background-image: url(../graphics/controlbar-black-border.gif);
+	background-image: url(../img/galleryGraphics/controlbar-black-border.gif);
+
 }
 .highslide-gallery ul li {
 	width: 106px;
