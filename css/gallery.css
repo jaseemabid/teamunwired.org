@@ -1,0 +1,44 @@
+.highslide-wrapper, .highslide-outline {
+	background: #111111;
+}
+.highslide img {
+	border: 1px solid #D0D0D0;
+}
+.highslide:hover img {
+	border-color: #A0A0A0;
+}
+.highslide-active-anchor img {
+	visibility: visible;
+	border-color: #808080 !important;
+}
+.highslide-dimming {
+	background: #000000;
+}
+.highslide-image {
+	border: 2px solid #111111;
+}
+.highslide-caption {
+	color: #CCCCCC;
+	padding: 2px;
+}
+.highslide-loading {
+	color: black;
+	border: 1px solid black;
+	background-color: white;
+}
+
+.highslide-controls {
+	position: static !important;
+	margin-bottom: 0;
+	width: 195px !important;
+}
+.large-dark .highslide-controls, .large-dark .highslide-controls ul, .large-dark .highslide-controls a {
+	background-image: url(../graphics/controlbar-black-border.gif);
+}
+.highslide-gallery ul li {
+	width: 106px;
+	height: 106px;
+	border: 1px solid #D0D0D0;
+	background: #EDEDED;
+	margin: 2px;
+}
