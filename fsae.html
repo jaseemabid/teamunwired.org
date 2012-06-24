@@ -23,7 +23,7 @@ title: Teamunwired
 		</div> <!-- / Row 1-->
 		<div class="row"> <!-- Row 2 -->
 			<div class="span12"> <!-- Main col -->
-				<div name="fase">
+				<div id="fase">
 					<img src="img/fsae/fsaebanner.png" alt="FSAE Banner" />
 					<div class="row">
 						<div class="span7"> <!-- Col 1 -->
@@ -34,13 +34,17 @@ title: Teamunwired
 						</div> <!-- / Col 2 -->
 					</div>
 				</div>
-				<div name="venue">
-					About the venues
+				<div id="venues">
+					<h2>Venues</h2>
+					{% include venues.ext %}
+					<a href="http://rennteam-stuttgart.de/index.php?id=56&L=2">
+						<img src="img/fsae/map.png" alt="map"/>
+					</a>
 				</div>
-				<div name="events">
-					About the events
+				<div id="events">
+					<h2>Events</h2>
+					{% include events.ext %}
 				</div>
-
 			</div>
 		</div> <!-- / Row 2-->
 	</div> <!-- / Container -->
