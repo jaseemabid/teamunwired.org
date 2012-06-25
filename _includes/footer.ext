@@ -3,25 +3,25 @@
 		<div class="row"> <!-- Row 1-->
 			<div class="span4"> <!-- Col 1 -->
 				<ul>
-					<li><a href="/#">Home</a></li>
-					<li><a href="/about.html">About Us</a></li>
-					<li><a href="/fsae.html">Formula Student</a></li>
-					<li><a href="/baja.html">Baja SAE India</a></li>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About Us</a></li>
+					<li><a href="fsae.html">Formula Student</a></li>
+					<li><a href="baja.html">Baja SAE India</a></li>
 				</ul>
 			</div> <!-- /Col 1 -->
 			<div class="span4"> <!-- Col 2 -->
 				<ul>
-					<li><a href="/">Activities</a></li>
-					<li><a href="/gallery.html">Gallery</a></li>
-					<li><a href="/sponsors.html">Sponsorship</a></li>
-					<li><a href="/team.html">The Team</a></li>
+					<li><a href="activities.html">Activities</a></li>
+					<li><a href="gallery.html">Gallery</a></li>
+					<li><a href="sponsors.html">Sponsorship</a></li>
+					<li><a href="team.html">The Team</a></li>
 				</ul>
 			</div> <!-- /Col 2 -->
 			<div class="span4"> <!-- Col 3 -->
 				<ul>
-					<li><a href="/">Updates</a></li>
-					<li><a href="/">News letters</a></li>
-					<li><a href="/">Contact Us</a></li>
+					<li><a href="news.html#updates">Updates</a></li>
+					<li><a href="news.html">News letters</a></li>
+					<li><a href="contact.html">Contact Us</a></li>
 				</ul>
 			</div> <!-- /Col 3 -->
 		</div> <!-- / Row 1 -->
@@ -40,7 +40,7 @@
 				<ul>
 					<li><a href="http://twitter.com/teamunwired">Twitter</a></li>
 					<li><a href="http://facebook.com/teamunwired">Facebook</a></li>
-					<li><a href="/">Google Plus</a></li>
+					<li><a href="https://plus.google.com/118161360181843997659">Google Plus</a></li>
 				</ul>
 			</div> <!-- / Col 2 -->
 		</div> <!-- / Row 2 -->
