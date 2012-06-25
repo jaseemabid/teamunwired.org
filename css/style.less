@@ -55,9 +55,11 @@ body {
 		section#content {
 			position: relative;
 			top: @imght;
-			.dark;
-
 			padding-bottom: 50px;
+			.dark;
+			div.row {
+				margin-top:30px;
+			}
 			h2 {
 				text-transform: uppercase;
 				color: @lightText;
@@ -111,9 +113,6 @@ body {
 					padding:5px 10px ;
 				}
 			}
-			div.row {
-				margin-top:30px;
-			}
 			div#cars {
 				div#carsCarousel {
 					height:200px;
@@ -149,7 +148,12 @@ body {
 				}
 			}
 			div#fsae{
-
+				h2 {
+					text-align: left;
+					font-size: 18px;
+					text-decoration: underline;
+					text-transform: none;
+				}
 			}
 		}
 		section#sponsorWall {
