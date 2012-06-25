@@ -4,13 +4,8 @@
 		<h3>Current sponsors</h3>
 		<ul class="thumbnails">
 				<li class="span6">
-					<a href="#" class="thumbnail">
-					<img src="http://placehold.it/450x315" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
+					<a href="sponsors.html#kennametal" class="thumbnail">
+					<img src="img/sponsors/kennametal.png" alt="kennametal">
 					</a>
 				</li>
 				<li class="span3">
@@ -52,6 +47,11 @@
 
 		<h3>Past sponsors</h3>
 		<ul class="thumbnails">
+				<li class="span3">
+					<a href="sponsors.html#gasotech" class="thumbnail">
+					<img src="img/sponsors/gasotech.jpg" alt="Gasotech">
+					</a>
+				</li>
 				<li class="span3">
 					<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">

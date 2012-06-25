@@ -1,0 +1,54 @@
+<section id="sponsorList">
+	<div class="container">
+		<h2>We are grateful to our sponsors</h2>
+
+		<div class="row" id="kennametal">
+			<div class="span6">
+				<a href="#kennametal" class="thumbnail">
+					<img src="img/sponsors/kennametal.png" alt="">
+				</a>
+			</div>
+			<div class="span6">
+				<h3>Kenna Metal</h3>
+				<p>Some info on kenna metal</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="span3">
+				<a href="#" class="thumbnail">
+					<img src="http://placehold.it/210x145" alt="">
+				</a>
+			</div>
+			<div class="span9">
+				<h3>Name of the sponsor</h3>
+				<p>Some info on the sponsor</p>
+			</div>
+		</div>
+
+		<h3>Past sponsors</h3>
+		<div class="row" id="gasotech">
+			<div class="span3">
+				<a href="#" class="thumbnail">
+					<img src="img/sponsors/gasotech.jpg" alt="Gasotech">
+				</a>
+			</div>
+			<div class="span9">
+				<h3>Gasotech India</h3>
+				<p>Some info on the sponsor</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="span3">
+				<a href="#" class="thumbnail">
+					<img src="http://placehold.it/210x145" alt="">
+				</a>
+			</div>
+			<div class="span9">
+				<h3>Name of the sponsor</h3>
+				<p>Some info on the sponsor</p>
+			</div>
+		</div>
+	</div> <!-- / Con -->
+</section>
