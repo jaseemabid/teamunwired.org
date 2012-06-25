@@ -34,8 +34,7 @@
 				</a>
 			</div>
 			<div class="span9">
-				<h3>Gasotech India</h3>
-				<p>Some info on the sponsor</p>
+                {% include gasotech.ext %}
 			</div>
 		</div>
 
