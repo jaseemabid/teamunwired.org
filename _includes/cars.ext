@@ -3,17 +3,13 @@
 		<!-- Carousel items -->
 		<div class="carousel-inner">
 			<div class="active item">
-				<img src="img/cars/1.jpg" alt=""/>
-				<div class="carousel-caption">
-					<h4>Unwind 1.0</h4>
-					<p>Some caption goes here.</p>
-				</div>
+				<img src="img/cars/cars_1.png" alt="Car 1"/>
 			</div>
 			<div class="item">
-				<img src="img/cars/2.jpg" alt=""/>
+				<img src="img/cars/cars_2.png" alt="Car 2"/>
 			</div>
 			<div class="item">
-				<img src="img/cars/3.jpg" alt=""/>
+				<img src="img/cars/cars_3.png" alt="Car 3"/>
 			</div>
 		</div>
 		<!-- Carousel nav -->
