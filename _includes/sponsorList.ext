@@ -9,8 +9,7 @@
 				</a>
 			</div>
 			<div class="span6">
-				<h3>Kenna Metal</h3>
-				<p>Some info on kenna metal</p>
+				{% include kennametal.ext %}
 			</div>
 		</div>
 
@@ -34,7 +33,7 @@
 				</a>
 			</div>
 			<div class="span9">
-                {% include gasotech.ext %}
+				{% include gasotech.ext %}
 			</div>
 		</div>
 
