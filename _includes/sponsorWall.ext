@@ -3,95 +3,95 @@
 		<h2>We are grateful to our sponsors</h2>
 		<h3>Current sponsors</h3>
 		<ul class="thumbnails">
-				<li class="span6">
-					<a href="sponsors.html#kennametal" class="thumbnail">
+			<li class="span6">
+				<a href="sponsors.html#kennametal" class="thumbnail">
 					<img src="img/sponsors/kennametal.png" alt="kennametal">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
+				</a>
+			</li>
 		</ul>
 
 		<h3>Past sponsors</h3>
 		<ul class="thumbnails">
-				<li class="span3">
-					<a href="sponsors.html#gasotech" class="thumbnail">
+			<li class="span3">
+				<a href="sponsors.html#gasotech" class="thumbnail">
 					<img src="img/sponsors/gasotech.png" alt="Gasotech">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="sponsors.html#eaton" class="thumbnail">
+					<img src="img/sponsors/eaton.png" alt="Eaton">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="sponsors.html#acc" class="thumbnail">
+					<img src="img/sponsors/acc.png" alt="ACC">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="sponsors.html#ongc" class="thumbnail">
+					<img src="img/sponsors/ongc.png" alt="ONGC">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="sponsors.html#sanpar" class="thumbnail">
+					<img src="img/sponsors/sanpar.png" alt="Sanpar">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="sponsors.html#solidworks" class="thumbnail">
+					<img src="img/sponsors/solidworks.png" alt="SolidWorks">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
+				</a>
+			</li>
+			<li class="span3">
+				<a href="#" class="thumbnail">
 					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
-				<li class="span3">
-					<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-					</a>
-				</li>
+				</a>
+			</li>
 		</ul>
 	</div> <!-- / Con -->
 </section>
