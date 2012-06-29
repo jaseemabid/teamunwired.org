@@ -28,8 +28,8 @@
 		<h3>Past sponsors</h3>
 		<div class="row" id="gasotech">
 			<div class="span3">
-				<a href="#" class="thumbnail">
-					<img src="img/sponsors/gasotech.jpg" alt="Gasotech">
+				<a href="#gasotech" class="thumbnail">
+					<img src="img/sponsors/gasotech.png" alt="Gasotech">
 				</a>
 			</div>
 			<div class="span9">
@@ -39,7 +39,7 @@
 
 		div class="row" id="acc">
 			<div class="span3">
-				<a href="#" class="thumbnail">
+				<a href="#acc" class="thumbnail">
 					<img src="img/sponsors/acc.png" alt="ACC">
 				</a>
 			</div>
