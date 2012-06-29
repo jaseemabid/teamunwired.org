@@ -5,25 +5,45 @@ title: Teamunwired
 
 <section id="content">
 	<div class="container" id="baja">
-		<h2 id="">Teamunwired at BAJA SAE INDIA</h2>
+
 		<div class="row"> <!-- Row 1 -->
-			<div class="span12"> <!-- Main col -->
+
+			<div class="navbar">
+				<div class="navbar-inner">
+					<div class="container">
+						<ul class="nav">
+							<li><a href="#Baja">Baja</a></li>
+							<li><a href="#1.0">Gasotech Unwind 1.0</a></li>
+							<li><a href="#2.0">Gasotech Unwind 2.0</a></li>
+						</ul>
+						<ul class="nav pull-right">
+							<li class="active" id="tuwTitle">
+								<a class="brand" href="#">
+									Baja SAE India
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="span12" id="Baja"> <!-- Main col -->
 				{% include bajadesc.ext %}
 			</div>
 		</div> <!-- / Row 1-->
 
-		<div class="row"> <!-- Row 2 -->
+		<div class="row" id="1.0"> <!-- Row 2 -->
 				<div class="span6">
 					{% include unwind1.0.ext %}
 				</div>
 				<div class="span6">
-					<img class="" src="img/cars/2.jpg"> 
+					<img class="" src="img/cars/2.jpg">
 				</div>
 		</div> <!-- / Row 2-->
 
-		<div class="row"> <!-- Row 3 -->
+		<div class="row" id="2.0"> <!-- Row 3 -->
 				<div class="span6">
-					<img class="" src="img/cars/3.jpg"> 
+					<img class="" src="img/cars/3.jpg">
 				</div>
 				<div class="span6">
 					{% include unwind2.0.ext %}
@@ -31,4 +51,3 @@ title: Teamunwired
 		</div> <!-- / Row 3-->
 	</div> <!-- / Container -->
 </section>
-
