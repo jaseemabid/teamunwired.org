@@ -1,14 +1,12 @@
 <section id="sponsorList">
 	<div class="container">
-		<h2>We are grateful to our sponsors</h2>
-
 		<div class="row" id="kennametal">
 			<div class="span6">
 				<a href="#kennametal" class="thumbnail">
 					<img src="img/sponsors/kennametal.png" alt="">
 				</a>
 			</div>
-			<div class="span6">
+			<div class="span6" id="current">
 				{% include kennametal.ext %}
 			</div>
 		</div>
@@ -25,7 +23,7 @@
 			</div>
 		</div>
 
-		<h3>Past sponsors</h3>
+		<h3 id="past">Past sponsors</h3>
 		<div class="row" id="gasotech">
 			<div class="span3">
 				<a href="#gasotech" class="thumbnail">
