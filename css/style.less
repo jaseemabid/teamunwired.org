@@ -36,10 +36,18 @@ body {
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
 
-			div.navbar-inner{
-				background:transparent;
-			}
+			div.navbar {
+				position:relative;
+				top:75px;
+				div.navbar-inner{
+					background:transparent;
+					li.active {
+						background: black;
+						opacity: 0.8;
+					}
 
+				}
+			}
 			li.mainLink {
 				position:relative;
 				top:40px;
@@ -135,12 +143,12 @@ body {
 			}
 			div#aboutUs {
 			}
-			div#social {
+			div#social, div#brochure {
 				padding: 20px 0 40px 0;
 				height:120px;
 				a {
 					display: block;
-					width: 100px;
+					width: 300px;
 					float: left;
 					text-align: center;
 					color:@lightText;
@@ -151,6 +159,9 @@ body {
 					margin-bottom: 3px;
 					vertical-align: middle;
 				}
+			}
+			div#social a {
+				width:100px;
 			}
 			div#news {
 
