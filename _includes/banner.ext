@@ -1,6 +1,6 @@
 <section id="intro">
 	<div id="logos">
-		<a href="/"><img class="logo mainlogo" src="graphics/tuwlogo100px.png" alt="club logo" title="Teamunwired"></a>
+		<a href="index.html"><img class="logo mainlogo" src="graphics/tuwlogo100px.png" alt="club logo" title="Teamunwired"></a>
 		<a href="http://www.nitc.ac.in"><img class="logo mainlogo" src="graphics/NITC-logo.png" alt="NIT Calcut" title="Visit NITC website"></a>
 	</div>
 	<div id="mainLinks">
