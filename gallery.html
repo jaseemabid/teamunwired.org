@@ -13,7 +13,7 @@ title: Teamunwired
 					<div class="container">
 						<ul class="nav pull-right">
 							<li class="active" id="tuwTitle">
-								<a class="brand" href="#">
+								<a class="brand" href="#gallery">
 									Gallery
 								</a>
 							</li>
@@ -21,57 +21,16 @@ title: Teamunwired
 					</div>
 				</div>
 			</div>
-
-			<div class="highslide-gallery">
-
-				<a href="http://placehold.it/700x600" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
+			<div class="highslide-gallery" id="gallery">
+				{% for img in (001..056) %}
+				<a href="img/gallery/{{img}}.png" class="highslide" onclick="return hs.expand(this)">
+					<img src="img/gallery/thumbs/{{img}}.png"
+						 alt="Gallery Image"
 						 title="Click to enlarge" />
 				</a>
-
-				<a href="http://placehold.it/730x400" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
-						 title="Click to enlarge" />
-				</a>
-
-
-				<a href="http://placehold.it/300x340" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
-						 title="Click to enlarge" />
-				</a>
-
-				<a href="http://placehold.it/600x640" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
-						 title="Click to enlarge" />
-				</a>
-
-				<a href="http://placehold.it/800x640" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
-						 title="Click to enlarge" />
-				</a>
-
-				<a href="http://placehold.it/700x440" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
-						 title="Click to enlarge" />
-				</a>
-
-
-				<a href="http://placehold.it/500x640" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
-						 title="Click to enlarge" />
-				</a>
-
-				<a href="http://placehold.it/600x640" class="highslide" onclick="return hs.expand(this)">
-					<img src="http://placehold.it/220x160" alt="Highslide JS"
-						 title="Click to enlarge" />
-				</a>
-
-
+				{% endfor %}
 			</div>
-
 		</div>
-
-
 	</div> <!-- / Container -->
 </section>
 

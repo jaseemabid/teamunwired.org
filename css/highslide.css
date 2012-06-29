@@ -1,5 +1,5 @@
 /**
-* @file: highslide.css 
+* @file: highslide.css
 * @version: 4.1.13
 */
 .highslide-container div {
@@ -14,7 +14,7 @@
 	text-decoration: none;
 }
 .highslide img {
-	border: 2px solid silver;
+/*	border: 2px solid silver; */
 }
 .highslide:hover img {
 	border-color: gray;
