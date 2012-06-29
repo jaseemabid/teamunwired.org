@@ -37,6 +37,17 @@
 			</div>
 		</div>
 
+		div class="row" id="acc">
+			<div class="span3">
+				<a href="#" class="thumbnail">
+					<img src="img/sponsors/acc.jpg" alt="ACC">
+				</a>
+			</div>
+			<div class="span9">
+				{% include acc.ext %}
+			</div>
+		</div>
+
 		<div class="row">
 			<div class="span3">
 				<a href="#" class="thumbnail">
