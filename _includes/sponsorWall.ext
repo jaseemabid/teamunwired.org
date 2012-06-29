@@ -82,16 +82,6 @@
 					<img src="img/sponsors/nrb.png" alt="NRB Bearnings">
 				</a>
 			</li>
-			<li class="span3">
-				<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-				</a>
-			</li>
-			<li class="span3">
-				<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-				</a>
-			</li>
 		</ul>
 	</div> <!-- / Con -->
 </section>
