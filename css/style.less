@@ -13,13 +13,13 @@
 }
 
 .dark {
-	background-color: #111;
+	background-color: #141519;
 	color: @lightText;
 }
 
 .light {
 	background-image: url('../img/bg_texture.jpg');
-	color: @darkText;
+	color: @lightText;
 }
 
 body {
@@ -35,20 +35,21 @@ body {
 			background-image: url('../img/homepan.png');
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
-			div#logos , div#mainLinks {
-				img.logo, a.mainLink {
-					position:relative;
-					top:40px;
-					left:150px;
-					padding:10px;
-				}
-				a.mainLink {
-					font-size: 22px;
+
+			div.navbar-inner{
+				background:transparent;
+			}
+
+			li.mainLink {
+				position:relative;
+				top:40px;
+				left:20px;
+				background:transparent;
+				color:@lightText;
+				a {
+					font-size: 15px;
 					text-align: right;
-					font-weight: 300;
 					color:@lightText ;
-					top: -30px;
-					left: 500px;
 				}
 			}
 		}
@@ -67,14 +68,14 @@ body {
 				margin:10px 0 20px 0;
 			}
 			h3 {
-				color: @darkText;
+				color: @lightText;
 				font-size: 18px;
 				margin: 0;
 				text-align: center;
 				padding:10px 0;
 			}
 			h4 {
-				color: #333;
+				color: @lightText;
 				margin-left:20px;
 			}
 			p, div, span, a, ul {
@@ -108,7 +109,7 @@ body {
 				}
 				p {
 					.droid;
-					color: @darkText;
+					color: @lightText;
 					text-align:left;
 					padding:5px 10px ;
 				}

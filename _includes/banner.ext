@@ -1,12 +1,40 @@
 <section id="intro">
-	<div id="logos">
-		<a href="index.html"><img class="logo mainlogo" src="graphics/tuwlogo100px.png" alt="club logo" title="Teamunwired"></a>
-		<a href="http://www.nitc.ac.in"><img class="logo mainlogo" src="graphics/NITC-logo.png" alt="NIT Calcut" title="Visit NITC website"></a>
-	</div>
-	<div id="mainLinks">
-		<a class="mainLink" href="fsae.html">FSAE</a>
-		<a class="mainLink" href="baja.html">BAJA SAE India</a>
-		<a class="mainLink" href="sponsors.html">Sponsors</a>
-		<a class="mainLink" href="contact.html">Contact Us</a>
+
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="container">
+				<ul class="nav">
+					<li>
+						<a href="index.html">
+							<img class="logo mainlogo"
+								 src="graphics/tuwlogo100px.png"
+								 alt="club logo"
+								 title="Teamunwired" />
+						</a>
+					</li>
+					<li>
+						<a href="http://www.nitc.ac.in">
+							<img class="logo mainlogo"
+								 src="graphics/NITC-logo.png"
+								 alt="NIT Calcut"
+								 title="Visit NITC website">
+						</a>
+					</li>
+
+					<li class="active mainLink">
+						<a class="mainLink" href="fsae.html">FSAE</a>
+					</li>
+					<li class="mainLink">
+						<a href="baja.html">BAJA SAE</a>
+					</li>
+					<li class="mainLink">
+						<a href="sponsors.html">Sponsors</a>
+					</li>
+					<li class="mainLink">
+						<a  href="contact.html">Contact Us</a>
+					</li>
+				</ul>
+			</div>
+		</div>
 	</div>
 </section>
