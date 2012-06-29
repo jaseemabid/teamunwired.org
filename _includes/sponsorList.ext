@@ -37,7 +37,7 @@
 			</div>
 		</div>
 
-		div class="row" id="acc">
+		<div class="row" id="acc">
 			<div class="span3">
 				<a href="#acc" class="thumbnail">
 					<img src="img/sponsors/acc.png" alt="ACC">
