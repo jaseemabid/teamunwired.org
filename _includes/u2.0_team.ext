@@ -1,0 +1,53 @@
+<div class="teamList" >
+	<div class="teamTitle">The Unwind2.0 team </div>
+	<a>Faculty advisors</a>
+	<div>
+		Dr. V. Sajith <br />
+		Mr. Shijo Thomas
+	</div>
+	<a>Team Lead</a>
+	<div>
+		Shivam Gupta
+	</div>
+	<a>Suspension and Steering</a>
+	<div>
+		Soumya Dube<br />
+		Mohnish Kuhikar<br />
+		Bhaskar Deka<br />
+		Aditya Nakhate
+	</div>
+	<a>Chassis</a>
+	<div>
+		Paul Alex<br />
+		Anwer C. M.<br />
+		Jobin J Unnupatt<br />
+		Kunal Kamble<br />
+		Kirti Chandra<br />
+		Anbu Sivaram<br />
+	</div>
+	<a>Engine and Transmission</a>
+	<div>
+		Seshan R V<br />
+		Shashi Maurya<br />
+		Sarat Chandu<br />
+		Shreyas <br />
+		Tony Joseph<br />
+		Junaid Ahammed K V
+	</div>
+	<a>Brakes</a>
+	<div>
+		Noha Peter<br />
+		Bharat Yemireddy<br />
+		Amit Pandey<br />
+	</div>
+	<a>Marketing</a>
+	<div>
+		Jaseem Abid<br />
+		Mithun Gautham
+	</div>
+	<a>Electricals</a>
+	<div>
+		Arun M<br />
+		Abhishek Shinde
+	</div>
+</div>

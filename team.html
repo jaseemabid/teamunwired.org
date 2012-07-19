@@ -1,19 +1,22 @@
 ---
-layout: index
+layout: team
 title: Teamunwired
 ---
 
 <section id="content">
-	<div class="container">
-
+	<div class="container" id="team">
 		<div class="row"> <!-- Row 1 -->
-
 			<div class="navbar">
 				<div class="navbar-inner">
 					<div class="container">
+						<ul class="nav">
+							<li><a href="#1.0">Unwind 1.0</a></li>
+							<li><a href="#2.0">Unwind 2.0</a></li>
+							<li><a href="#Paathshaala">Paathshaala</a></li>
+						</ul>
 						<ul class="nav pull-right">
 							<li class="active" id="tuwTitle">
-								<a class="brand" href="#">
+								<a class="brand" href="#team">
 									The team
 								</a>
 							</li>
@@ -21,9 +24,8 @@ title: Teamunwired
 					</div>
 				</div>
 			</div>
-
 			<div class="span12"> <!-- Main col -->
-				<p>Team desc goes here</p>
+				{% include teamInfo.ext %}
 			</div>
 		</div> <!-- / Row 1-->
 	</div> <!-- / Container -->
