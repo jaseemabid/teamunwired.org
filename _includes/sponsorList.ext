@@ -11,18 +11,6 @@
 			</div>
 		</div>
 
-		<div class="row">
-			<div class="span3">
-				<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-				</a>
-			</div>
-			<div class="span9">
-				<h3>Name of the sponsor</h3>
-				<p>Some info on the sponsor</p>
-			</div>
-		</div>
-
 		<h3 id="past">Past sponsors</h3>
 		<div class="row" id="gasotech">
 			<div class="span3">
@@ -43,18 +31,6 @@
 			</div>
 			<div class="span9">
 				{% include acc.ext %}
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="span3">
-				<a href="#" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="">
-				</a>
-			</div>
-			<div class="span9">
-				<h3>Name of the sponsor</h3>
-				<p>Some info on the sponsor</p>
 			</div>
 		</div>
 	</div> <!-- / Con -->
