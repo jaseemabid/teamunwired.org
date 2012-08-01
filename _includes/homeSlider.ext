@@ -5,9 +5,7 @@
 			<div class="carousel-inner">
 				{% for img in (1..12) %}
 				<div class="item">
-					<a href="gallery.html">
 						<img src="img/homeSlider/{{img}}.png" alt="Gallery Image {{img}}"/>
-					</a>
 				</div>
 				{% endfor %}
 			</div>

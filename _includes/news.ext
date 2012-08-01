@@ -1,6 +1,7 @@
 <a href='news.html'>
 	<div class="article" id="news">
 		<h3>News and updates</h3>
+<!--
 		<a href=news.html#1>
 			<h4>News item 1</h4>
 			<p>This is what is happening now as news 1</p>
@@ -17,5 +18,6 @@
 			<h4>News item 4</h4>
 			<p>This is what is happening now as news 4</p>
 		</a>
+-->
 	</div>
 </a>
