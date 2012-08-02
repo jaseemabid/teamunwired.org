@@ -64,12 +64,28 @@
 		<div class="row" id="hpl">
 			<div class="span3">
 				<a href="#hpl" class="thumbnail">
-					<img src="http://placehold.it/210x145" alt="hpl">
+					<img src="img/sponsors/hpl.jpg" alt="hpl">
 				</a>
 			</div>
 			<div class="span9">
 				{% include hpl.ext %}
 			</div>
 		</div>
+
+		<div class="row" id="sanpar">
+			<div class="span3">
+				<a href="#sanpar" class="thumbnail">
+					<img src="img/sponsors/sanpar.jpg" alt="hpl">
+				</a>
+			</div>
+			<div class="span9">
+				{% include sanpar.ext %}
+			</div>
+		</div>
+
+
+
+
+
 	</div> <!-- / Con -->
 </section>

@@ -1,23 +1,49 @@
 <a href='news.html'>
 	<div class="article" id="news">
 		<h3>News and updates</h3>
-<!--
+
 		<a href=news.html#1>
-			<h4>News item 1</h4>
-			<p>This is what is happening now as news 1</p>
+
+			<p>
+				Picked to represent NIT Calicut in the NIT Conclave to be held in
+				NIT Nagpur(Visvesvaraya National Institute of Technology)
+			</p>
 		</a>
 		<a href=news.html#2>
-			<h4>News item 2</h4>
-			<p>This is what is happening now as news 2</p>
+
+			<p>
+				Engine located and we are in negotiations for purchase and
+				import.
+			</p>
 		</a>
 		<a href=news.html#3>
-			<h4>News item 3</h4>
-			<p>This is what is happening now as news 3</p>
+
+			<p>
+				Our title sponsor: Kennametal India Ltd. Our car will be named
+				Kennametal Unleashed.
+			</p>
 		</a>
 		<a href=news.html#4>
-			<h4>News item 4</h4>
-			<p>This is what is happening now as news 4</p>
+
+			<p>
+				Dronacharya award received by Dr V Sajith, Assistant professor
+				and faculty in charge of TeamUnwired
+			</p>
 		</a>
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	</div>
 </a>

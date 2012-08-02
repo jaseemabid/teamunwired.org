@@ -84,6 +84,11 @@
 					<img src="img/sponsors/nrb.png" alt="NRB Bearnings">
 				</a>
 			</li>
+			<li class="span3">
+				<a href="sponsors.html#hpl" class="thumbnail">
+					<img src="img/sponsors/hpl.jpg" alt="HPL">
+				</a>
+			</li>
 		</ul>
 	</div> <!-- / Con -->
 </section>
