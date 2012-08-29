@@ -28,6 +28,9 @@
 						<a href="baja.html">BAJA SAE</a>
 					</li>
 					<li class="active mainLink">
+						<a href="aero.html">SAE Aero</a>
+					</li>
+					<li class="active mainLink">
 						<a href="sponsors.html">Sponsors</a>
 					</li>
 
