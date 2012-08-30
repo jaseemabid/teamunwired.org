@@ -1,7 +1,13 @@
 <div class="article" id="brochure">
-	<a href="content/TUW_Brochure_2012-13.pdf">
-		<h3 style="margin-bottom:15px">Download the<br/> marketing brochure</h3>
-		<img src="img/idea.png" /><br>
-		here
+	<h3 style="margin-bottom:15px">Download the
+		<br/>
+		marketing brochure
+	</h3>
+
+	<a href="content/TUW_Brochure_2012-13.pdf" style="display:inline; width: 150px;">
+		FSUK
+	</a>
+	<a href="content/Brochure_TeamUnwired_SAEAeroDesignEast2013.pdf" style="display:inline; width: 150px;">
+		SAE Aero
 	</a>
 </div>
